@@ -21,7 +21,7 @@ I use the service from npm, but you can use any other equivalent tool of your ch
 
 <img src="https://github.com/asyv3n/roblox-dev-script-env/assets/153901936/ea872183-cc56-4df0-970b-0ebe89088439" width="350">
 
-Now your folder `project` available by http and https connection.
+Now your folder `project` available by local http connection.
 
 <img src="https://github.com/asyv3n/roblox-dev-script-env/assets/153901936/9fe647cb-de60-47a2-9d3d-ab2150783044" width="350">
 
